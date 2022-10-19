@@ -3,6 +3,7 @@ This is an attempt to make programming language that maybe not as efficient as p
 Current Functionalities : 
   1. Printing Data
   2. Storing Data (variables)
-  3. Comments
+  3. Declate datatypes
+  4. Comments
 
 (*switch to the master branch to review the code, also do send pull requests if you'd like to contribute)
