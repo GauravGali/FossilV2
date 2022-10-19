@@ -1,0 +1,7 @@
+print Hello All .. comments bro
+
+decl var a = dhruv
+decl int var b = 17
+
+print var a
+print var b

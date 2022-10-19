@@ -1,0 +1,27 @@
+.. To Print data with crucial characters
+printas <data>
+
+.. To Print plain data
+print <data>
+
+.. To Print variable data
+print var <var_name>
+
+.. To Declare variables using default data_type
+decl var <var_name> = <data>
+
+.. To Declare variables with custom data_type
+decl <data_type> var <var_name> = <data>
+
+.. To print all stored variable values
+print var !
+
+.. To stop processing fsl files
+end
+
+.. Test immutable block
+decl dynamic block imut {
+    decl int var num = 17
+    decl var word = string word
+}
+
